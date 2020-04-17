@@ -1,0 +1,25 @@
+.wrap{
+    background: white;
+    width: 100%;
+    margin:10px auto;
+    height: 900px;
+}
+
+.side{
+    height:450px;
+}
+
+.sidebar{
+    background-color: rgb(34, 145, 155);
+    float:left;
+    width:20%;
+    height:900px;
+}
+
+.wrap.footer{
+    width: 100%;
+    padding: 20px auto;
+    background:rgb(34, 145, 155);
+    margin:auto;
+   
+}
